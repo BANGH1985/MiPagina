@@ -13,7 +13,7 @@ import CartaPresentacion from './components/CartaPresentacion';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/MiPagina'>
       <div className="App">
         <Header />
         <Routes>
