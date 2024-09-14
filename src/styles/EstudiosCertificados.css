@@ -1,0 +1,33 @@
+section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+li strong {
+    font-size: 18px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+li p {
+    margin-top: 5px;
+    color: #555;
+}
