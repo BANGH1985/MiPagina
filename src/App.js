@@ -21,6 +21,13 @@ function App() {
             <>
               <CartaPresentacion />
               <Experiencia />
+              <div style={{ margin: '20px 0' }}>
+                <a href="/CV_Dante_Soriano.pdf" download>
+                  <button style={{ padding: '10px 20px', fontSize: '16px', cursor: 'pointer', backgroundColor: '#61dafb', color: 'white', border: 'none', borderRadius: '5px' }}>
+                    Descargar CV
+                  </button>
+                </a>
+              </div>
               <Repositorios />
               <ConocimientosHabilidades />
               <EstudiosCertificados />
